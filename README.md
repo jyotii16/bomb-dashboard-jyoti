@@ -5,13 +5,13 @@
 
 Dashboard Link
 
- 
-https://bomb-dashboard-kaushal.netlify.app/dashboard
- 
-Home Page Link
+ https://main--inquisitive-jyoti-325591.netlify.app/
+
  
 
  
-https://bomb-dashboard-kaushal.netlify.app
+
+ 
+
  
  
